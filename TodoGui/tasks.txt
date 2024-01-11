@@ -1,0 +1,4 @@
+3
+Buy_groceries 0
+Save_world_hunger 0
+Take_out_the_bins 0
